@@ -1,1 +1,1 @@
-# StudyBlue-PetroBowl-Webscraping
+# StudyBlue-PetroBowl-WebScraping
